@@ -1,7 +1,6 @@
-👋 Hi Everyone...
-👨‍💻 I’m Haryo Darma Putra, You can call me Haryo
-👀 I’m interested about programming language
-🏫 I study in Bumigora University on Computer Science major
+Hi Everyone...,
+Iam Haryo Darma Putra and
+Iam a newbie programmer
 
 Instagram : @ryodrma_
 Email     : haryo.darmap@gmail.com
